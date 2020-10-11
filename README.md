@@ -23,7 +23,9 @@ Ce livre a inspiré l'excellente série "Halt and Catch Fire" (la saison 1)
 #### Jason Schreier
 #### A venir
 
-
+### Inside the Video Game Industry
+#### Judd Ruggill, Ken McAllister, Randy Nichols, Ryan Kaufman
+#### A venir
 
 ## Classiques
 
