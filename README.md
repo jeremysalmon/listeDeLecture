@@ -27,9 +27,20 @@ Ce livre a inspiré l'excellente série "Halt and Catch Fire" (la saison 1)
 #### Judd Ruggill, Ken McAllister, Randy Nichols, Ryan Kaufman
 #### A venir
 
+## Entreprise
+
+### Hit Refresh: The Quest to Rediscover Microsoft's Soul and Imagine a Better Future for Everyone
+#### Satya Nadella 
+#### A venir
+
 ## Classiques
 
 ### Le conte de Monte Cristo
 #### Alexandre Dumas
 #### En cours
 
+## Divers
+
+### From Startupper to Cancer Fighter: The will to do things
+#### Hamza Aboulfeth , Mehdi Dahmane
+#### En cours
