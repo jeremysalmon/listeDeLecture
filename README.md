@@ -2,14 +2,20 @@
 
 ## Geekerie
 
-### The soul of a new machine
-#### Tracy Kidder
-#### Lu en septembre 2020
+<div style="float:left" width="50%">
+  <img align="right" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431802320l/19188077._SY475_.jpg">
+</div>
+<div style="float:right" with="50%">
+  <h1>The soul of a new machine</h1>
+  <h3>Tracy Kidder</h3>
+  <h3>Lu en septembre 2020</h3>
 
-Histoire vraie de la création d'un ordinateur 32 bits par Data General. Une immersion dans la passion, la complexité et la ténacité de la construction d'un ordinateur dans les années 70. 
-Un très bon livre qui permet de mieux saisir la complexité des ordinateurs que nous utilisons aujourd'hui. Derrière leur apparente simplicité toutes les machines qui nous entourent sont le résultat d'efforts considérables de la part de passionnés.
-Des passages bien techniques qui permettent de mieux comprendre l'architecture et le comportement des ordinateurs.
-Ce livre a inspiré l'excellente série "Halt and Catch Fire" (la saison 1)
+  <p>Histoire vraie de la création d'un ordinateur 32 bits par Data General. Une immersion dans la passion, la complexité et la ténacité de la construction d'un ordinateur dans les années 70. </p>
+  <p>Un très bon livre qui permet de mieux saisir la complexité des ordinateurs que nous utilisons aujourd'hui. Derrière leur apparente simplicité toutes les machines qui nous entourent sont le résultat d'efforts considérables de la part de passionnés.</p>
+  <p>Des passages bien techniques qui permettent de mieux comprendre l'architecture et le comportement des ordinateurs.</p>
+  <p>Ce livre a inspiré l'excellente série "Halt and Catch Fire" (la saison 1)</p>
+  
+</div>
 
 ### Hackers : Heroes of the computer revolution
 #### Steven Levy
