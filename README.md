@@ -20,10 +20,13 @@
   <h3>Steven Levy</h3>
   <h3>Lu en octobre 2020</h3>
 </div>
-
-### Sid Meier's Memoir!: A Life in Computer Games
-#### Sid Meier
-#### A venir
+<br>
+<div>
+  <img width="25%" align="right" src="https://i1.wp.com/www.alwaysforkeyboard.com/wp-content/uploads/2020/05/sid_meier_2.jpg?resize=648%2C978&ssl=1">
+  <h1>Sid Meier's Memoir!: A Life in Computer Games</h1>
+  <h3>Sid Meier</h3>
+  <h3>Lu en octobre 2020</h3>
+</div>
 
 ### Blood, Sweat, and Pixels: The Triumphant, Turbulent Stories Behind How Video Games Are Made
 #### Jason Schreier
