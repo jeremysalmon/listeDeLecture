@@ -2,10 +2,8 @@
 
 ## Geekerie
 
-<div style="float:left" width="50%">
-  <img align="right" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431802320l/19188077._SY475_.jpg">
-</div>
-<div style="float:right" with="50%">
+<div width="100%">
+  <img width="25%" align="right" src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1431802320l/19188077._SY475_.jpg">
   <h1>The soul of a new machine</h1>
   <h3>Tracy Kidder</h3>
   <h3>Lu en septembre 2020</h3>
@@ -14,12 +12,14 @@
   <p>Un très bon livre qui permet de mieux saisir la complexité des ordinateurs que nous utilisons aujourd'hui. Derrière leur apparente simplicité toutes les machines qui nous entourent sont le résultat d'efforts considérables de la part de passionnés.</p>
   <p>Des passages bien techniques qui permettent de mieux comprendre l'architecture et le comportement des ordinateurs.</p>
   <p>Ce livre a inspiré l'excellente série "Halt and Catch Fire" (la saison 1)</p>
-  
-</div>
+</div> 
 
-### Hackers : Heroes of the computer revolution
-#### Steven Levy
-#### En cours
+<div width="100%">
+  <img width="25%" align="right" src="https://images-na.ssl-images-amazon.com/images/I/91JTO5QC9vL.jpg">
+  <h1>Hackers : Heroes of the computer revolution</h1>
+  <h3>Steven Levy</h3>
+  <h3>Lu en octobre 2020</h3>
+</div>
 
 ### Sid Meier's Memoir!: A Life in Computer Games
 #### Sid Meier
